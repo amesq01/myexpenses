@@ -16,7 +16,7 @@ export const Header = () => {
         height: "35px",
         borderRadius: "35px",
       }}/>
-      <h1 style={{color:'#ccc'}}>Minhas Despesas</h1>
+      <h1 style={{color:'#ccc', fontSize:'24px'}}>Minhas Despesas</h1>
       <FaPlusCircle size={30} color='white'/>
     </header>
   )
