@@ -8,7 +8,8 @@ export const Header = () => {
       height: "50px",
       alignItems: "center",
       justifyContent: "space-between",
-      backgroundColor: "#333"
+      backgroundColor: "#333",
+      padding: "0 20px"
     }}>
       <img src="https://github.com/amesq01.png" alt='logo-foto-usuario' style={{
         width: "35px",
